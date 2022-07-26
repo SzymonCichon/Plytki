@@ -1,0 +1,44 @@
+{
+    "lang":[
+    {
+        "header": {
+            "name_of_person": "Herz für die Menschen",
+            "info_about_me": "Über mich",
+            "tariff": "Preisliste und Kontakt",
+            "localisation": "Lage"
+        },
+        "page_info":
+        [
+            ["Hallo!",
+            "Mein Name ist Anna Swierczynska, ich komme aus Polen und lebe seit einigen Jahren in Deutschland. Ich arbeite im Beruf der Alterpflege. Bisher habe ich mit vielen Patienten gearbeitet, daher habe ich viel Erfahrung. Ich bin eine verantwortungsbewusste Person, konsequent in den mir anvertrauten Aufgaben und sehr fleißig. Gerne nehme ich ein Stellenangebot für bestimmte Stunden und Tage in der Woche oder für einen bestimmten Zeitraum an. Ich kann sehr schnell mit einer kranken Person in Kontakt treten, was die Atmosphäre angenehm und warm macht. Die deutsche Sprache ist kein großes Problem für mich, ich komme zurecht."
+            ],
+            ["Preisliste und Kontakt",
+                "Der Preis hängt von den Verpflichtungen ab, die ich erfüllen muss. Um mich zu konsultieren, kontaktieren Sie mich bitte per \n Telefonnummer : 01742474618 \n Mail: pflegeannas@gmail.com\n Mein Angebot umfasst 24/7-Arbeit oder andere Arbeitsformen je nach den individuellen Bedürfnissen des Patienten."
+            ],
+            ["Lokalisierung",
+                "Ich erbringe meine Dienstleistungen in und um Bochum (maximal ca. 35 km von Bochum entfernt). Der Transport zu einem potentiellen Patienten ist für mich kein Problem."
+            ]
+        ]
+    },
+    {
+        "header": {
+            "name_of_person": "Herz für die Menschen",
+            "info_about_me": "About me",
+            "tariff": "Prices and Contact",
+            "localisation": "Location"
+        },
+        "page_info":
+        [
+            ["Hello!",
+            "My name is Anna Świerczyńska, I come from Poland and have been living in Germany for several years. I work in the Alterpflege profession. So far I have worked with many patients, so I have a lot of experience. I am a responsible person, consistent in the tasks entrusted to me and very hardworking. I am happy to accept a job offer at specific times and days a week or for a specified period of time. I can very quickly get in contact with a sick person. The German language is not a problem for me, I can get along."
+            ],
+            ["Prices and Contact",
+                "The price depends on the commitments I have to fulfill. To consult me ​​please contact me by \n Phone number : 01742474618 \n Mail: pflegeannas@gmail.com\n My offer includes 24/7 work or other forms of work depending on the individual needs of the patient."
+            ],
+            ["Localisation",
+                "I provide my services in and around Bochum (maximum approx. 35 km from Bochum). Transport to a potential patient is not a problem for me."
+            ]
+        ]
+    }
+    ]
+}
